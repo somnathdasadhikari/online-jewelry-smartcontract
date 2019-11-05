@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Crystal Yellow Gold ring",
+    "picture": "image/1.jpeg",
+    "price": 300,
+    "type": "Ring",
+    "material": "Gold"
+  },
+  {
+    "id": 1,
+    "name": "Diamond Yellow Gold ring",
+    "picture": "image/2.jpeg",
+    "price": 200,
+    "type": "Ring",
+    "material": "Gold"
+  },
+  {
+    "id": 2,
+    "name": "Diamond Yellow ring",
+    "picture": "image/3.jpeg",
+    "price": 2000,
+    "type": "Ring",
+    "material": "Gold"
+  },
+  {
+    "id": 3,
+    "name": "Crystal Yellow Gold ring",
+    "picture": "image/4.jpeg",
+    "price": 150,
+    "type": "Ring",
+    "material": "Gold"
+  },
+  {
+    "id": 4,
+    "name": "Beads Yellow Gold ring",
+    "picture": "image/4.jpeg",
+    "price": 240,
+    "type": "Ring",
+    "material": "Gold"
+  },
+  {
+    "id": 5,
+    "name": "Cooper Diamond ring",
+    "picture": "image/5.jpeg",
+    "price": 366,
+    "type": "Ring",
+    "material": "Gold"
+  },
+  {
+    "id": 6,
+    "name": "Lola Smith ring",
+    "picture": "image/7.jpeg",
+    "price": 378,
+    "type": "Ring",
+    "material": "Gold"
+  },
+  {
+    "id": 7,
+    "name": "Angle ring",
+    "picture": "image/8.jpeg",
+    "price": 367,
+    "type": "Ring",
+    "material": "Gold"
+  },
+  {
+    "id": 8,
+    "name": "Ruby Ring",
+    "picture": "image/0.jpeg",
+    "price": 211,
+    "type": "Ring",
+    "material": "Ruby"
+  },
+  {
+    "id": 9,
+    "name": "Fran Plat Ring",
+    "picture": "image/9.jpeg",
+    "price": 321,
+    "type": "Ring",
+    "material": "Gold"
+  },
+  {
+    "id": 10,
+    "name": "Leonor New Model Ring",
+    "picture": "image/10.jpeg",
+    "price": 298,
+    "type": "Ring",
+    "material": "Gold"
+  },
+  {
+    "id": 11,
+    "name": "Cooly Play Ring",
+    "picture": "image/11.jpeg",
+    "price": 376,
+    "type": "Ring",
+    "material": "Gold"
+  },
+  {
+    "id": 12,
+    "name": "Jumpy Stone Ring",
+    "picture": "image/12.jpeg",
+    "price": 354,
+    "type": "Ring",
+    "material": "Gold"
+  },
+  {
+    "id": 13,
+    "name": "Kristina Stone Ring",
+    "picture": "image/13.jpeg",
+    "price": 465,
+    "type": "Ring",
+    "material": "Gold"
+  },
+  {
+    "id": 14,
+    "name": "Ethel Ring Stone",
+    "picture": "image/14.jpeg",
+    "price": 254,
+    "type": "Ring",
+    "material": "Gold"
+  },
+  {
+    "id": 15,
+    "name": "Terry Stone Ring",
+    "picture": "image/15.jpeg",
+    "price": 134,
+    "type": "Ring",
+    "material": "Gold"
+  }
+]
